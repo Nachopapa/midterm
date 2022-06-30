@@ -1,9 +1,8 @@
 import React from 'react';
-import Card from './Card';
 
 function Home (){
 	return  <div className='App'>
-   
+   <h1>Welcome to our website</h1>
   </div>
 }
 

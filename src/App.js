@@ -14,13 +14,13 @@ class App extends Component {
         <div className="App">
           <ul className="App-header">
             <li>
-              <Link to="/">Home</Link>
+              <Link to="/">Home.</Link>
             </li>
             <li>
-              <Link to="/about">About Us</Link>
+              <Link to="/about">About</Link>
             </li>
             <li>
-              <Link to="/contact">Students
+              <Link to="/contact">Students List
            </Link>
             </li>
           
